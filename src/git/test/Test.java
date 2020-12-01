@@ -15,6 +15,7 @@ public class Test {
         System.out.println("gg");
         System.out.println("mm");
         System.out.println("ww");
+        System.out.println("ss");
     }
 }
  
