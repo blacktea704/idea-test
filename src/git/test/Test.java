@@ -13,6 +13,7 @@ public class Test {
         int i = 1;
         int j = 2;
         System.out.println("gg");
+        System.out.println("mm");
     }
 }
  
